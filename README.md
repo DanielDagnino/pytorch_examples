@@ -1,5 +1,7 @@
 # Pytorch examples
-Here I leave some examples that maybe are useful for someone who is starting learning to use Pytorch
+Here I leave some examples that maybe are useful for someone who is starting learning to use Pytorch.
+
+For an explanation of the 4classes classifier you can visit https://www.kaggle.com/danieldagnino/training-a-classifier-with-pytorch
 
 <table>
   <tr>
