@@ -6,7 +6,7 @@ For a jupyter example of the 4 classes classifier you can visit https://www.kagg
 ---
 With these codes I pretend to show the common steps that we have to follow to write a program using Pytorch, independently if it is to build a simple neural network of a very complex one. The steps that I describe below are the following:
 
-Markup :  1. Build the Dataset. We are going to generate a simple data set and then we will read it.
+  1. Build the Dataset. We are going to generate a simple data set and then we will read it.
   2. Build the DataLoader.
   3. Build the model.
   4. Define the loss function and the optimizer.
