@@ -21,7 +21,7 @@ With these codes I pretend to show the common steps that we have to follow to wr
     <td> <img src="https://github.com/DanielDagnino/pytorch_examples/blob/master/img/2%20class.png" alt="Fianl circuit" width="400" /> </td>
     <td> <img src="https://github.com/DanielDagnino/pytorch_examples/blob/master/img/4%20classes.png" alt="Valve" rotate="90" width="400" /> </td>
   <tr>
-    <td> Figure 1: Binary classifier </td>
-    <td> Figure 2: Classifier with 4 classes </td>
+    <td> Figure 1: Binary classifier. Color boxes indicate the predictions of the model after the training and the circles the ground truth labels. </td>
+    <td> Figure 2: Classifier with 4 classes. Color boxes indicate the predictions of the model after the training and the circles the ground truth labels. </td>
   </tr>
 </table>
