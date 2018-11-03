@@ -18,10 +18,10 @@ With these codes I pretend to show the common steps that we have to follow to wr
   <tr>
     <td colspan="2"> These are the solutions obtained after running the two provided examples. </td>
   </tr>
-    <td> <img src="https://github.com/DanielDagnino/pytorch_examples/blob/master/img/2%20class.png" alt="Fianl circuit" width="400" /> </td>
-    <td> <img src="https://github.com/DanielDagnino/pytorch_examples/blob/master/img/4%20classes.png" alt="Valve" rotate="90" width="400" /> </td>
+    <td width="50%"> <img src="https://github.com/DanielDagnino/pytorch_examples/blob/master/img/2%20class.png" alt="Fianl circuit" width="400" /> </td>
+    <td width="50%"> <img src="https://github.com/DanielDagnino/pytorch_examples/blob/master/img/4%20classes.png" alt="Valve" rotate="90" width="400" /> </td>
   <tr>
-    <td> Figure 1: Binary classifier. Color boxes indicate the predictions of the model after the training and the circles the ground truth labels. Blue line represents the straight line obtained using the values of the linear layer of the model. </td>
-    <td> Figure 2: Classifier with 4 classes. Color boxes indicate the predictions of the model after the training and the circles the ground truth labels. </td>
+    <td width="50%"> Figure 1: Binary classifier. Color boxes indicate the predictions of the model after the training and the circles the ground truth labels. Blue line represents the straight line obtained using the values of the linear layer of the model. </td>
+    <td width="50%"> Figure 2: Classifier with 4 classes. Color boxes indicate the predictions of the model after the training and the circles the ground truth labels. </td>
   </tr>
 </table>
